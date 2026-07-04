@@ -2,8 +2,8 @@
 
 <!-- HEADER BANNER (auto dark/light) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff%2C100:0072ff&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" width="100%" />
 </picture>
 
@@ -206,8 +206,8 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 <!-- FOOTER (auto dark/light) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:161b22%2C100:6e40c9&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff%2C100:0072ff&height=120&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
 </picture>
 
