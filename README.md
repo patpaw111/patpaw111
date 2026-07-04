@@ -3,7 +3,7 @@
 <!-- HEADER BANNER (auto dark/light) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8daef,50:d2b4de,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" width="100%" />
 </picture>
 
@@ -44,9 +44,9 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 <!-- TOP LANGUAGES (auto dark/light) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=default&hide_border=true&title_color=6e40c9&text_color=333333&langs_count=8" />
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" width="300" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8&v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=8&v=2" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8&v=2" width="300" />
 </picture>
 
 ### 🎯 What I Do
@@ -115,13 +115,13 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 <!-- STATS CARD (auto dark/light) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=default&hide_border=true&title_color=6e40c9&icon_color=6e40c9&ring_color=6e40c9&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" width="49%" />
 </picture>
 <!-- STREAK STATS (auto dark/light) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=default&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=default&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&dates=24292f&currStreakNum=24292f&sideNums=24292f" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
 </picture>
 
@@ -132,7 +132,7 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 <!-- CONTRIBUTION GRAPH (auto dark/light) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=patpaw111&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true&custom_title=📈%20Contribution%20Graph" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=patpaw111&bg_color=ffffff&color=6e40c9&line=6e40c9&point=333333&area=true&area_color=d2b4de&hide_border=true&custom_title=📈%20Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=patpaw111&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&area_color=cce5ff&hide_border=true&custom_title=📈%20Contribution%20Graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patpaw111&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true&custom_title=📈%20Contribution%20Graph" width="98%" />
 </picture>
 
@@ -207,7 +207,7 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 <!-- FOOTER (auto dark/light) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8daef,50:d2b4de,100:6e40c9&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
 </picture>
 
