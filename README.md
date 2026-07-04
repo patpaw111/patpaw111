@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/followers/patpaw111?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9" />
   </a>
   <a href="https://github.com/patpaw111?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-26-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repos-27-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mfaqih_49/">
     <img src="https://img.shields.io/badge/Instagram-mfaqih__49-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 🚀 &nbsp;About Me
 
 ```yaml
 name: Muhammad Nur Imam Faqih Abdullah
@@ -84,24 +84,16 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 <div align="center">
 
-<a href="https://github.com/patpaw111/Siger-Pangan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patpaw111&repo=Siger-Pangan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/patpaw111/SSSSKomik">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patpaw111&repo=SSSSKomik&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/patpaw111/GarbageRunner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patpaw111&repo=GarbageRunner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/patpaw111/prototipe_aplikasi_face_recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patpaw111&repo=prototipe_aplikasi_face_recognition&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/patpaw111/web_absn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patpaw111&repo=web_absn&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/patpaw111/Projek-web-toko-online-ayam-geprek">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patpaw111&repo=Projek-web-toko-online-ayam-geprek&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌾 **[Siger-Pangan](https://github.com/patpaw111/Siger-Pangan)** | Food commodity price monitoring platform — [Live](https://sigerpangan.my.id) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 📚 **[SSSSKomik](https://github.com/patpaw111/SSSSKomik)** | Web komik reader — "dapat A ini mah 😊" | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🎮 **[GarbageRunner](https://github.com/patpaw111/GarbageRunner)** | C++ game project — runner game | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🤖 **[Face Recognition](https://github.com/patpaw111/prototipe_aplikasi_face_recognition)** | Prototipe aplikasi face recognition | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🌐 **[Web Absensi](https://github.com/patpaw111/web_absn)** | Web attendance app — [Live](https://web-absn.vercel.app) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🍗 **[Toko Ayam Geprek](https://github.com/patpaw111/Projek-web-toko-online-ayam-geprek)** | Online food ordering web — ⭐ 1 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| ⏰ **[Time Bloom](https://github.com/patpaw111/time-bloom)** | Flutter time management app | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| 📱 **[Absensi Mobile](https://github.com/patpaw111/apk_absn_mobile_flutter)** | Flutter mobile attendance app | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 
 </div>
 
@@ -110,7 +102,7 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 <img src="https://github-readme-stats.vercel.app/api?username=patpaw111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
 
@@ -122,10 +114,26 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patpaw111&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+> 💡 **Trophies** dihitung otomatis berdasarkan aktivitas GitHub kamu — setiap commit, PR, issue, repo baru, dan star berkontribusi ke trophy!
+
+<img src="https://github-profile-trophy.vercel.app/?username=patpaw111&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+
+<br>
+
+**My GitHub Journey So Far:**
+
+| 🎯 Achievement | 📊 Status |
+|:---:|:---:|
+| 🏗️ Public Repos | **27** |
+| ⭐ Stars Earned | **1** |
+| 👥 Followers | **7** |
+| 📅 Member Since | **2022** |
+| 🔥 Total Contributions | **217+** |
+
 </div>
 
 ---
@@ -138,6 +146,8 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patpaw111/patpaw111/output/github-snake.svg" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/patpaw111/patpaw111/output/github-snake-dark.svg" />
   </picture>
+  
+  > ⚙️ *Snake animation is auto-generated via [GitHub Actions](.github/workflows/snake.yml) every 6 hours*
 </div>
 
 ---
