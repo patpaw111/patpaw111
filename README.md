@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" width="100%" />
+<!-- HEADER BANNER (auto dark/light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8daef,50:d2b4de,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Muhammad%20Nur%20Imam%20Faqih%20Abdullah&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descSize=14&descAlignY=52&descAlign=50" width="100%" />
+</picture>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Halo%2C+selamat+datang+di+profil+saya!;%F0%9F%9A%80+Building+cool+stuff+with+code;%F0%9F%8E%93+Student+%40+Universitas+Teknokrat+Indonesia)](https://git.io/typing-svg)
@@ -38,7 +42,12 @@ currently_learning: ["Rust 🦀", "Machine Learning 🤖", "Cloud Architecture �
 fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 ```
 
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" width="300" />
+<!-- TOP LANGUAGES (auto dark/light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=default&hide_border=true&title_color=6e40c9&text_color=333333&langs_count=8" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" width="300" />
+</picture>
 
 ### 🎯 What I Do
 
@@ -103,13 +112,30 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
+<!-- STATS CARD (auto dark/light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=default&hide_border=true&title_color=6e40c9&icon_color=6e40c9&ring_color=6e40c9&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" width="49%" />
+</picture>
+<!-- STREAK STATS (auto dark/light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=default&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
+</picture>
 
 </div>
 
 <div align="center">
+
+<!-- CONTRIBUTION GRAPH (auto dark/light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=patpaw111&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true&custom_title=📈%20Contribution%20Graph" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=patpaw111&bg_color=ffffff&color=6e40c9&line=6e40c9&point=333333&area=true&area_color=d2b4de&hide_border=true&custom_title=📈%20Contribution%20Graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patpaw111&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true&custom_title=📈%20Contribution%20Graph" width="98%" />
+</picture>
+
 </div>
 
 ---
@@ -178,6 +204,11 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
+<!-- FOOTER (auto dark/light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8daef,50:d2b4de,100:6e40c9&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" />
+</picture>
 
 </div>
