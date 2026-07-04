@@ -8,20 +8,38 @@
 </picture>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Halo%2C+selamat+datang+di+profil+saya!;%F0%9F%9A%80+Building+cool+stuff+with+code;%F0%9F%8E%93+Student+%40+Universitas+Teknokrat+Indonesia)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Halo%2C+selamat+datang+di+profil+saya!;%F0%9F%9A%80+Building+cool+stuff+with+code;%F0%9F%8E%93+Student+%40+Universitas+Teknokrat+Indonesia" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0969da&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Halo%2C+selamat+datang+di+profil+saya!;%F0%9F%9A%80+Building+cool+stuff+with+code;%F0%9F%8E%93+Student+%40+Universitas+Teknokrat+Indonesia" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Halo%2C+selamat+datang+di+profil+saya!;%F0%9F%9A%80+Building+cool+stuff+with+code;%F0%9F%8E%93+Student+%40+Universitas+Teknokrat+Indonesia" alt="Typing SVG" />
+  </picture>
+</a>
 
 <!-- SOCIAL BADGES -->
 <p>
   <a href="https://github.com/patpaw111">
-    <img src="https://img.shields.io/github/followers/patpaw111?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/patpaw111?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/patpaw111?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0969da" />
+      <img src="https://img.shields.io/github/followers/patpaw111?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6e40c9" />
+    </picture>
   </a>
   <a href="https://github.com/patpaw111?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-27-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Repos-27-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Repos-27-0969da?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Repos-27-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+    </picture>
   </a>
   <a href="https://www.instagram.com/mfaqih_49/">
     <img src="https://img.shields.io/badge/Instagram-mfaqih__49-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=patpaw111&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=patpaw111&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=patpaw111&style=for-the-badge&color=0969da&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=patpaw111&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
+  </picture>
 </p>
 
 </div>
@@ -145,11 +163,31 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/🏗️_Public_Repos-27-6e40c9?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/⭐_Stars_Earned-1-6e40c9?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/👥_Followers-7-6e40c9?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🔥_Contributions-261+-6e40c9?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/📅_Member_Since-2022-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🏗️_Public_Repos-27-6e40c9?style=for-the-badge&labelColor=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🏗️_Public_Repos-27-0969da?style=for-the-badge&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/🏗️_Public_Repos-27-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/⭐_Stars_Earned-1-6e40c9?style=for-the-badge&labelColor=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/⭐_Stars_Earned-1-0969da?style=for-the-badge&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/⭐_Stars_Earned-1-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/👥_Followers-7-6e40c9?style=for-the-badge&labelColor=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/👥_Followers-7-0969da?style=for-the-badge&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/👥_Followers-7-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🔥_Contributions-261+-6e40c9?style=for-the-badge&labelColor=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🔥_Contributions-261+-0969da?style=for-the-badge&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/🔥_Contributions-261+-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/📅_Member_Since-2022-6e40c9?style=for-the-badge&labelColor=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/📅_Member_Since-2022-0969da?style=for-the-badge&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/📅_Member_Since-2022-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  </picture>
 </p>
 
 **My GitHub Journey Milestones:**
@@ -184,7 +222,11 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 ### 💬 Random Dev Quote
   
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</picture>
 
 ---
 
@@ -198,7 +240,11 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
     <img src="https://img.shields.io/badge/Instagram-mfaqih__49-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://faqih-portofolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-Visit-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-Visit-0969da?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
+    </picture>
   </a>
 </p>
 
