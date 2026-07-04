@@ -239,11 +239,11 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
   <a href="https://www.instagram.com/mfaqih_49/">
     <img src="https://img.shields.io/badge/Instagram-mfaqih__49-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://faqih-portofolio.vercel.app">
+  <a href="https://www.linkedin.com/in/mni-faqih/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-Visit-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-Visit-0969da?style=for-the-badge&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Portfolio-Visit-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-Connect-6e40c9?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-Connect-0969da?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-6e40c9?style=for-the-badge&logo=linkedin&logoColor=white" />
     </picture>
   </a>
 </p>
