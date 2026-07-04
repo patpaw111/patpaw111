@@ -38,7 +38,7 @@ currently_learning: ["Rust 🦀", "Machine Learning 🤖", "Cloud Architecture �
 fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" width="300" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patpaw111&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" width="300" />
 
 ### 🎯 What I Do
 
@@ -103,7 +103,7 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patpaw111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patpaw111&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=patpaw111&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
 
 </div>
@@ -118,21 +118,23 @@ fun_fact: "I turn coffee ☕ into code and bugs into features 🐛✨"
 
 <div align="center">
 
-> 💡 **Trophies** dihitung otomatis berdasarkan aktivitas GitHub kamu — setiap commit, PR, issue, repo baru, dan star berkontribusi ke trophy!
+<p>
+  <img src="https://img.shields.io/badge/🏗️_Public_Repos-27-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⭐_Stars_Earned-1-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/👥_Followers-7-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔥_Contributions-261+-6e40c9?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📅_Member_Since-2022-6e40c9?style=for-the-badge&labelColor=0d1117" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=patpaw111&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+**My GitHub Journey Milestones:**
 
-<br>
-
-**My GitHub Journey So Far:**
-
-| 🎯 Achievement | 📊 Status |
-|:---:|:---:|
-| 🏗️ Public Repos | **27** |
-| ⭐ Stars Earned | **1** |
-| 👥 Followers | **7** |
-| 📅 Member Since | **2022** |
-| 🔥 Total Contributions | **217+** |
+```
+🏁 2022  ─── Joined GitHub, started coding journey
+📚 2023  ─── First projects: Ayam Geprek Web, Python learning
+🌐 2024  ─── Built portfolios, explored Flutter & web dev
+🚀 2025  ─── SSSSKomik, Face Recognition, Docker mastery
+🌾 2026  ─── Siger Pangan platform, learning Rust & ML
+```
 
 </div>
 
